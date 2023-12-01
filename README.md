@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohammed-9](https://github.com/mohammed-9)
 
-- 💬 Ask me about **Angular And ja Vanillia**
+- 💬 Ask me about **Angular And js Vanillia**
 
 - 📫 How to reach me **mohammed.sy.no@gmail.com**
 
